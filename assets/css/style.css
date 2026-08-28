@@ -8,12 +8,10 @@ h1 {
     font-size: 48px;
     color: white;
 }
-h2 {
-    color: darkred;
-}
+
 table {
     background-color: white;
 }
 img {
-    border: 5px white;
+    border: 5px solid black;
 }
