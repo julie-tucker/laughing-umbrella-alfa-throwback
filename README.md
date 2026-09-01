@@ -5,9 +5,16 @@ h1 {
     color: white;
 }
 
+
 changed body font size to 20 using CSS.
+
 body {
     background-color: orange;
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 20px;
+}
+
+added a border to the images
+img {
+    border: 5px solid black;
 }
