@@ -1,4 +1,5 @@
-changed the main title color to white using CSS.
+# Changes Made
+## changed the main title color to white using CSS.
 
 h1 {
     font-size: 48px;
@@ -6,7 +7,7 @@ h1 {
 }
 
 
-changed body font size to 20 using CSS.
+## changed body font size to 20 using CSS.
 
 body {
     background-color: orange;
@@ -14,7 +15,7 @@ body {
     font-size: 20px;
 }
 
-added a border to the images
+## added a border to the images
 img {
     border: 5px solid black;
 }
